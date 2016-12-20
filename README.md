@@ -1,4 +1,4 @@
-# Big-Data
+# ColorReducer
 
 Instructions for executing the ColorReducer.R file
 
